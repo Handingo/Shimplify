@@ -23,10 +23,7 @@ public final class CloseButton extends JButton {
 		setForeground(theme.fontColor());
 		setFont(new Font("Arial", Font.PLAIN, 16));
 
-		addActionListener(e -> {
-			// TODO save theme, destination, export settings
-			System.exit(0);
-		});
+		addActionListener(e -> System.exit(0));
 	}
 
 	@Override

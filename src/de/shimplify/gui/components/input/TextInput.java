@@ -9,7 +9,7 @@ import de.shimplify.gui.util.UI;
 
 public final class TextInput extends JTextArea {
 	public TextInput(final Theme theme) {
-		super(16, Integer.MAX_VALUE); // TODO 16 abhängig vom window scaling machen
+		super(16, Integer.MAX_VALUE);
 		setLayout(new BorderLayout());
 		setMargin(UI.INNER_MARGIN);
 		setBackground(theme.contentColor());

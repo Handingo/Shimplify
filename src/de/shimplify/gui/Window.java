@@ -36,7 +36,6 @@ public final class Window extends JFrame {
         setUndecorated(true);
         setBounds(paddingLeft, paddingTop, width, height);
         setShape(new RoundRectangle2D.Double(0, 0, getWidth(), getHeight(), 20, 20));
-        // setOpacity(0.96f); // TODO als setting?
         setIconImage(toolkit.getImage("./config/logo.png"));
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLayout(new BorderLayout());

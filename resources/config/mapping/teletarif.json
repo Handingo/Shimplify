@@ -1,0 +1,37 @@
+{
+    "Betriebssystem": { "group": "Betriebssystem", "key": "Betriebssystem (high)", "id": 161 },
+
+	"Prozessor": 				{ "group": "Prozessor", "key": "CPU", "id": 55, "high": "Prozessor (high)", "highID": 162 },
+	"CPU": 						{ "group": "Prozessor", "key": "CPU-Typ", "id": 56 },
+
+	"Arbeitsspeicher (RAM)": 	{ "group": "Speicher", "key": "Arbeitsspeicher", "id": 172, "high": "Arbeitsspeicher (high)", "highID": 165 },
+	"Gesamte Speichergröße": 	{ "group": "Speicher", "key": "Speicher (intern)", "id": 173 },
+	"Speicherkarten-Slot": 		{ "group": "Speicher", "key": "Speichererweiterung", "id": 174 },
+
+	"Bildschirmdiagonale": 	{ "group": "Display", "key": "Displaygröße", "id": 175, "high": "Displaydiagonale (high)", "highID": 163 },
+	"Display-Auflösung": 	{ "group": "Display", "key": "Displayauflösung", "id": 176 },
+	"Display-Typ": 			{ "group": "Display", "key": "Displaytechnologie", "id": 177 },
+	"Stift vorhanden": 		{ "group": "Display", "key": "Pen-Unterstützung", "id": 178 },
+
+	"Hauptkamera": 				{ "group": "Kamera", "key": "Rück Kamera", "id": 167, "high": "Kamera (high)", "highID": 166 },
+	"Front-Kamera": 			{ "group": "Kamera", "key": "Front-Kamera", "id": 168 },
+	"Gesichtserkennung": 		{ "group": "Kamera", "key": "Gesichtserkennung", "id": 169 },
+	"Blitz-Licht": 				{ "group": "Kamera", "key": "Blitz-LED", "id": 170 },
+	"Fokus": 					{ "group": "Kamera", "key": "Autofokus", "id": 171 },
+
+	"USB": 						{ "group": "Konnektivität", "key": "USB-Version", "id": 179 },
+	"Navigation": 				{ "group": "Konnektivität", "key": "Standortbestimmung", "id": 180 },
+	"WLAN": 					{ "group": "Konnektivität", "key": "WLAN", "id": 181 },
+	"Bluetooth": 				{ "group": "Konnektivität", "key": "Bluetooth", "id": 182 },
+	"NFC": 						{ "group": "Konnektivität", "key": "NFC", "id": 183 },
+	"Audio":					{ "group": "Konnektivität", "key": "Audiobuchse", "id": 184 },
+	"Kabelloses Laden": 		{ "group": "Konnektivität", "key": "Wireless Charging", "id": 185 },
+	"Dual-SIM": 				{ "group": "Konnektivität", "key": "SIM-Karte", "id": 186 },
+	"SIM-Kartentyp": 			{ "group": "Konnektivität", "key": "SIM-Format", "id": 187 },
+	"UMTS-Frequenzen": 			{ "group": "Konnektivität", "key": "3G (UMTS)", "id": 188 },
+	"LTE-Frequenzen (Band)":	{ "group": "Konnektivität", "key": "4G (LTE)", "id": 189 },
+	"5G-Frequenzen (Band)": 	{ "group": "Konnektivität", "key": "5G", "id": 190 },
+
+	"Maße": 	{ "group": "Abmessung und Gewicht", "key": "Maße (HxBxT in mm)", "id": 194 },
+	"Gewicht":	{ "group": "Abmessung und Gewicht", "key": "Gewicht (in g)", "id": 195 }
+}

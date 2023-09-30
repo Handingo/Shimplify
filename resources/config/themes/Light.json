@@ -1,0 +1,8 @@
+{
+	"backgroundColor": [255, 255, 255],
+	"contentColor": [235, 235, 235],
+	"contentHoverColor": [215, 215, 215],
+	"contentClickColor": [195, 195, 195],
+	"fontColor": [0, 0, 0],
+	"warnColor": [232, 17, 35]
+}
